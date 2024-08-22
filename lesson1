@@ -1,0 +1,7 @@
+
+dz = 12
+hours = 1.5
+first_name = 'Курс: Python,'
+time_dz = 0.125
+print (hours / dz)
+print(first_name, 'всего задач:',dz,'затрачено часов:',hours,'среднее время выполнения',time_dz,'часа.')
